@@ -1,0 +1,3 @@
+با استفاده از تبدیل فرمول های ریاضی دایره و بیضی به صورت کد های پایتون و استفاده از ماژول pgzrun و چند خط کد دیگر یک سیاره را روی این مدار ها حرکت انتقالی داده و می چرخانیم.
+
+By converting the mathematical formulas of circles and ellipses into Python codes and using the pgzrun module and a few other lines of code, we translate and rotate a planet on these orbits.
